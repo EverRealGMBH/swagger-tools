@@ -1,6 +1,6 @@
 {
-  "name": "swagger-tools",
-  "version": "0.10.1",
+  "name": "typescript-swagger-tools",
+  "version": "1.0.0",
   "description": "Various tools for using and integrating with Swagger.",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,9 @@
     "url": "https://github.com/whitlockjc"
   },
   "bugs": {
-    "url": "https://github.com/apigee-127/swagger-tools/issues"
+    "url": "https://github.com/EverRealGMBH/typescript-swagger-tools/issues"
   },
-  "homepage": "https://github.com/apigee-127/swagger-tools",
+  "homepage": "https://github.com/EverRealGMBH/typescript-swagger-tools",
   "license": "MIT",
   "repository": {
     "type": "git",
