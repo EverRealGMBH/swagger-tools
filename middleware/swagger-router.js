@@ -392,7 +392,7 @@ exports = module.exports = function (options) {
     _.each(options.controllers, function (func, handlerName) {
       debug('    %s', handlerName);
 
-      if (!_.isFunction(func)) {
+      if (typeof func !== 'function') {
         throw new Error('options.controllers values must be functions');
       }
     });
